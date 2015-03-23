@@ -1,3 +1,25 @@
+/*
+ * main.qml - nektechTextEditor
+ *
+ * Copyright (C) NEK Tech 2013
+ * Developers V1.0:  	Pankaj Saraf
+ *			            Jitendra Khasdev
+ *                      Pooja Shukla
+ *                      Akshay Rastogi
+ *                      Poovika Ujjaini
+ * Copyright (C) NEK Tech 2015
+ *
+ * Author and Architect: Pankaj Saraf
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms and conditions of NEK Tech.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ */
+
 import QtQuick 2.1
 import QtQuick.Layouts 1.0
 import QtQuick.Window 2.0
